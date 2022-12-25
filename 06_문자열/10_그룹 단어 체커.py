@@ -16,5 +16,4 @@ for _ in range(n) :
     
     if checking : 
         cnt += 1
-    
 print(cnt)
