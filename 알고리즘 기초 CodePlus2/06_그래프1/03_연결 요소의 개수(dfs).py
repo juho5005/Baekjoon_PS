@@ -7,7 +7,7 @@
 import sys 
 sys.setrecursionlimit(10**6)
 
-n, m = tuple(map(int, sys.stdin.readline().split()))
+n, m = tuple(map(int, sys.stdin.readline().split())) 
 
 linked_vertex = [
     list(map(int, sys.stdin.readline().split()))

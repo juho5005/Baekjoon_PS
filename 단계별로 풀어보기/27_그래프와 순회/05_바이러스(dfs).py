@@ -2,7 +2,7 @@
 # 네트워크 상에서 연결되어 있는 정보가 주어질 때 
 # 1번 컴퓨터를 통해 웜 바이러스에 걸리게 되는 컴퓨터의 수를 출력
 
-# dfs
+# dfs (인접 리스트)
 
 import sys 
 sys.setrecursionlimit(10**6)
